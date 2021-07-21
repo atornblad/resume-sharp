@@ -40,5 +40,8 @@ namespace ResumeSharp.Schema
 
         [JsonPropertyName("location")]
         public Location Location { get; set; }
+
+        [JsonPropertyName("profiles")]
+        public Profile[] Profiles { get; set; }
     }
 }

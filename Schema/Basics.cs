@@ -28,5 +28,17 @@ namespace ResumeSharp.Schema
         [Description("Phone numbers are stored as strings so use any format you like, e.g. 712-117-2923")]
         [Phone]
         public string Phone { get; set; }
+
+        [JsonPropertyName("url")]
+        [Description("URL (as per RFC 3986) to your website, e.g. personal homepage")]
+        [Url]
+        public string Url { get; set; }
+
+        [JsonPropertyName("summary")]
+        [Description("Write a short 2-3 sentence biography about yourself")]
+        public string Summary { get; set; }
+
+        [JsonPropertyName("location")]
+        public Location Location { get; set; }
     }
 }

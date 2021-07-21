@@ -8,5 +8,8 @@ namespace ResumeSharp.Schema
     {
         [JsonPropertyName("basics")]
         public Basics Basics { get; set; }
+
+        [JsonPropertyName("work")]
+        public Work[] Work { get; set; }
     }
 }

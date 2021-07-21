@@ -23,6 +23,7 @@ namespace ResumeSharp
         {
             if (checkedObjects.Contains(obj)) return true;
             checkedObjects.Add(obj);
+            if (obj.GetType() == typeof(string)) return true;
 
             bool returns = true;
 

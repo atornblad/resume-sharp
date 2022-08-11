@@ -1,0 +1,115 @@
+{
+    "basics": {
+        "name": "Anders Marzi Tornblad",
+        "label": "Software Architect",
+        "image": "https://atornblad.se/anders-marzi-tornblad.jpeg",
+        "email": "anders.tornblad@gmail.com",
+        "phone": "+46-70 856 43 65",
+        "url": "https://atornblad.se/",
+        "summary": "I have spent more than 20 years as a professional within software development, doing solution architecture, integrations, software architecture, database design, information analysis, web application architecture, technical project management, and good old code-writing. Some of the technologies/stacks I enjoy working in are: Java, C#, ElasticSearch, Docker, Kubernetes, React, Android, Azure, and AWS.",
+        "location": {
+            "address": "Ödenäsvägen 72",
+            "postalCode": "43898",
+            "city": "Hindås",
+            "countryCode": "SE"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "atornblad",
+                "url": "https://twitter.com/atornblad"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "Anders Marzi Tornblad",
+                "url": "https://linkedin.com/in/anderstornblad"
+            },
+            {
+                "network": "Github",
+                "username": "atornblad",
+                "url": "https://github.com/atornblad"
+            },
+            {
+                "network": "StackOverflow",
+                "username": "Anders Marzi Tornblad",
+                "url": "https://stackoverflow.com/users/549471"
+            },
+            {
+                "network": "Dev",
+                "username": "atornblad",
+                "url": "https://dev.to/atornblad"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "The Gothenburg Region",
+            "location": "Gothenburg, Sweden",
+            "description": "Cooperative association for 13 municipalities in the general Gothenburg area",
+            "position": "Software Architect",
+            "url": "https://goteborgsregionen.se/",
+            "startDate": "2021-01",
+            "summary": "...",
+            "highlights": [
+                "blah",
+                "bluh"
+            ]
+        },
+        {
+            "name": "Meltwater",
+            "location": "Gothenburg, Sweden",
+            "description": "Providing solutions that help customers make more informed decisions",
+            "position": "Principal Software Engineer",
+            "url": "https://meltwater.com/",
+            "startDate": "2020-01",
+            "endDate": "2021-01",
+            "summary": "...",
+            "highlights": [
+                "blah",
+                "bluh"
+            ]
+        },
+        {
+            "name": "Combination AB",
+            "location": "Gothenburg, Sweden",
+            "description": "Creating state-of-the-art solutions for Sportsbook and online casino apps",
+            "position": "Senior Software Developer Team Lead",
+            "url": "https://combination.se/",
+            "startDate": "2018-05",
+            "endDate": "2020-01",
+            "summary": "Acting as hiring manager for a small team, and also doing full-stack development in advanced solutions requiring high performance, zero downtime and near real-time updates, using a wide range of technology, such as Docker, Kubernetes, ElasticSearch, SignalR, Azure DevOps.",
+            "highlights": [
+                "blah",
+                "bluh"
+            ]
+        },
+        {
+            "name": "Infracontrol AB",
+            "location": "Mölndal, Sweden",
+            "description": "With over 140 cities in Sweden and Portugal as customers, Infracontrol Online is a system with high demands for performance and useability",
+            "position": "Senior Full Stack Developer",
+            "url": "https://combination.se/",
+            "startDate": "2015-10",
+            "endDate": "2018-04",
+            "summary": "Some of my responsibilities were to investigate different options and then execute a large migration of on-premise data and services to a Microsoft Azure-based cloud solution and develop integrations to communicate with bespoke customer systems.",
+            "highlights": [
+                "blah",
+                "bluh"
+            ]
+        },
+        {
+            "name": "Volvo Car Retail Solutions AB",
+            "location": "Göteborg, Sweden",
+            "description": "Developing simple and intuitive digital solutions that make Volvo Retail run smooth",
+            "position": "Solutions Architect, Integrations Developer",
+            "url": "https://volvocarretailsolutions.com/",
+            "startDate": "2012-09",
+            "endDate": "2015-10",
+            "summary": "I performed an architectural review to get to the bottom with low development velocity and poor quality in one of the company's flagship products. My recommendation was to simplify and rebuild large parts of the product's backend, and to introduce a more agile approach to project management. One challenge was to deal with integrations with external systems, and Microsoft BizTalk Server was the technology of choice.",
+            "highlights": [
+                "blah",
+                "bluh"
+            ]
+        }
+    ]
+}
